@@ -1,0 +1,2 @@
+﻿MonoGame requires a special shader File (*.mgfxo). That file can be generated from usual HLSL files with the 2MGX.exe tool provided by MonoGame.
+I included that tool in the "Tools" directory and a bat file for creating the mgfxo files used in that project.
